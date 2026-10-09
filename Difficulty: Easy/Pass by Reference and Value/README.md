@@ -1,0 +1,7 @@
+<h2><a href="https://www.geeksforgeeks.org/problems/pass-by-reference-and-value/1">Pass by Reference and Value</a></h2><h3>Difficulty Level : Difficulty: Easy</h3><hr><div class="problems_problem_content__Xm_eO" style="--text-color: var(--problem-text-color);"><p><span style="font-size: 14pt;">Given two integers<strong> a</strong> and <strong>b</strong>, add 1 to <strong>a</strong> and 2 to <strong>b</strong>. The parameter a is passed by value, while <strong>b</strong> is passed by reference. Return the resulting values as an array of two integers.</span></p>
+<p><span style="font-size: 14pt;"><strong>Examples:</strong></span></p>
+<pre><span style="font-size: 14pt;"><strong>Input: </strong>a = 1, b = 2
+<strong>Output: </strong>[2, 4]
+<strong>Explanation:</strong> 1 was passed by value whereas 2 passed by reference.</span></pre>
+<pre><span style="font-size: 14pt;"><strong>Input: </strong>a = 10, b = 20
+<strong>Output: </strong>[2, 4] <br><strong style="background-color: #f4f4f4; font-family: monospace; white-space: pre-wrap;">Explanation:</strong><span style="background-color: #f4f4f4; font-family: monospace; white-space: pre-wrap;"> </span>10 is increased by 1, and 20 is increased by 2.</span></pre></div><br><p><span style=font-size:18px><strong>Topic Tags : </strong><br><code>Functions</code>&nbsp;
